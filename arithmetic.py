@@ -8,7 +8,7 @@ def subtract(no1, no2):
     return ans
 
 
-a = 10
+a = 30
 b = 20
 
 ans = addition(a, b)
